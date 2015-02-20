@@ -1,2 +1,5 @@
 # Evopod
-Evolve walking things scraped from rednuht.org (red42).
+
+Collection of genetically programmed walking creatures.
+
+
